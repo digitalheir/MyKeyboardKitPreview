@@ -6,6 +6,6 @@ final class MyKeyboardKitPreviewTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(MyKeyboardKitPreview().text, "Hello, World!")
+        //XCTAssertEqual(MyKeyboardKitPreview().text, "Hello, World!")
     }
 }

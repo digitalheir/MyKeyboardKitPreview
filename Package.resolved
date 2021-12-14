@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "KeyboardKit",
+        "repositoryURL": "https://github.com/digitalheir/KeyboardKit",
+        "state": {
+          "branch": "remove-any-views",
+          "revision": "db89887c21a8d984f7f8a31b4e1c7c85c8487160",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
